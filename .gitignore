@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment files (never upload API keys)
+.env
+
+# Node
+node_modules/
+
+# VS Code
+.vscode/
